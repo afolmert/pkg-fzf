@@ -12,7 +12,7 @@ import (
 	"github.com/junegunn/tcell"
 	"github.com/junegunn/tcell/encoding"
 
-	"github.com/junegunn/go-runewidth"
+	"github.com/mattn/go-runewidth"
 )
 
 func HasFullscreenRenderer() bool {

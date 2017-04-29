@@ -1,0 +1,23 @@
+Source: fzf
+Section: shells
+Priority: extra
+Maintainer: Tom Fitzhenry <tom@tom-fitzhenry.me.uk>
+Build-Depends: debhelper (>= 9),
+               dh-golang,
+               golang-golang-x-crypto-dev,
+               golang-github-mattn-go-isatty-dev,
+               golang-github-mattn-go-runewidth-dev,
+               golang-github-mattn-go-shellwords-dev,
+               golang-go (>= 1.5)
+Homepage: https://github.com/junegunn/fzf/
+Vcs-Browser: https://github.com/junegunn/fzf/
+Vcs-Git: https://github.com/junegunn/fzf/
+
+Package: fzf
+Architecture: any
+Depends: ${misc:Depends},
+         ${shlibs:Depends},
+         golang-go (>= 1.5)
+Description: command-line fuzzy finder
+ fzf is a general-purpose command-line fuzzy finder, with plugins to integrate
+ with shells and editors.
