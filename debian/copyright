@@ -1,0 +1,9 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: *
+Copyright: 2017 Junegunn Choi
+License: MIT
+
+Files: debian/*
+Copyright: 2017 Tom Fitzhenry
+License: MIT
