@@ -4,6 +4,7 @@ Priority: extra
 Maintainer: Tom Fitzhenry <tom@tom-fitzhenry.me.uk>
 Build-Depends: debhelper (>= 9),
                dh-golang,
+               dh-exec,
                golang-golang-x-crypto-dev,
                golang-github-mattn-go-isatty-dev,
                golang-github-mattn-go-runewidth-dev,
