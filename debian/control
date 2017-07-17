@@ -1,5 +1,5 @@
 Source: fzf
-Section: shells
+Section: utils
 Priority: extra
 Maintainer: Tom Fitzhenry <tom@tom-fitzhenry.me.uk>
 Build-Depends: debhelper (>= 10),
