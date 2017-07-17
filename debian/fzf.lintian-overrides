@@ -1,2 +1,0 @@
-# False positive. https://github.com/golang/go/blob/c44d031bf08a916c01ee53a33fc54d46e0833d1b/src/runtime/mfinal.go#L46
-spelling-error-in-binary usr/bin/fzf ot to
