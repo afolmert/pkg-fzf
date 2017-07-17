@@ -19,8 +19,7 @@ XS-Go-Import-Path: github.com/junegunn/fzf
 Package: fzf
 Architecture: any
 Built-Using: ${misc:Built-Using}
-Depends: ${misc:Depends},
-         ${shlibs:Depends}
+Depends: ${misc:Depends}
 Description: command-line fuzzy finder
  fzf is a general-purpose command-line fuzzy finder, with plugins to integrate
  with shells and editors.
