@@ -10,7 +10,7 @@ Build-Depends: debhelper (>= 10),
                golang-github-mattn-go-runewidth-dev,
                golang-github-mattn-go-shellwords-dev,
                golang-go (>= 1.5)
-Standards-Version: 3.9.8
+Standards-Version: 4.0.0
 Homepage: https://github.com/junegunn/fzf
 Vcs-Browser: https://github.com/tomfitzhenry/pkg-fzf/
 Vcs-Git: https://github.com/tomfitzhenry/pkg-fzf/
