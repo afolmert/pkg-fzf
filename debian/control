@@ -15,6 +15,7 @@ Homepage: https://github.com/junegunn/fzf
 Vcs-Browser: https://github.com/tomfitzhenry/pkg-fzf/
 Vcs-Git: https://github.com/tomfitzhenry/pkg-fzf/
 XS-Go-Import-Path: github.com/junegunn/fzf
+Testsuite: autopkgtest
 
 Package: fzf
 Architecture: any
