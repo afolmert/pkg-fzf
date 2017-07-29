@@ -1,6 +1,6 @@
 Source: fzf
 Section: utils
-Priority: extra
+Priority: optional
 Maintainer: Tom Fitzhenry <tom@tom-fitzhenry.me.uk>
 Build-Depends: debhelper (>= 10),
                dh-golang,
